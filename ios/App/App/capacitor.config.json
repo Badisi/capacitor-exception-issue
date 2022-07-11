@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "cap-exception-issue",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

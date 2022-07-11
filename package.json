@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@capacitor/core": "^3.6.0",
+    "@capacitor/ios": "^3.6.0",
+    "capacitor-secure-storage-plugin": "^0.7.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.6.0"
+  }
+}

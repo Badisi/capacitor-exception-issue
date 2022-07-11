@@ -1,0 +1,10 @@
+<script>
+    const SecureStoragePlugin = window.Capacitor.Plugins['SecureStoragePlugin'];
+    SecureStoragePlugin.get({ key: 'username' })
+        .then(value => {
+            console.log(value);
+        })
+        .catch(error => {
+            console.log('Item with specified key does not exist.');
+        });
+</script>
